@@ -25,13 +25,15 @@ O programa solicita ao usuário o tipo de imóvel e o consumo mensal de água em
 
 ## Tecnologias Utilizadas
 
-![Python](https://img.shieldsPython-3776AB?style=for-the-badge&logo=python&logoColor=white
 
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&white
 
-https://img.shields.io/badge/Sustentabilidade-2E8B57?style=for-the-badge
+!ttps://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white
 
-![Consumo de Água](https://img.shields.io/badge/Consumo%20FF?style=for-the-badge
+https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white
+
+![Sustentabilidade](https://img.tentabilidade-2E8B57?style=for-the-badge
+
+https://img.shields.io/badge/Consumo%20de%20%C3%81gua-00BFFF?style=for-the-badge
 
 ---
 
