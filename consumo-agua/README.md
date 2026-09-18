@@ -25,7 +25,7 @@ O programa solicita ao usuário o tipo de imóvel e o consumo mensal de água em
 
 ## Tecnologias Utilizadas
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=oColor=white
+![Python] (https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=oColor=white
 
 
 ---
