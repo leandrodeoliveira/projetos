@@ -29,7 +29,7 @@ O programa solicita ao usuário o tipo de imóvel e o consumo mensal de água em
 
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github=white)
 
-[![Sustentabilidade](https://img.shields.io/badge/Sustentabilidade-2E8B57?style=for-the-badge&logo=leaf&logoColor=white)
+[![Sustentabilidade](https://img.shields.io/badge/Sustentabilidade-2E8B57?style=for-the-badge&logo=leaf&logoColor=white)](https://img.shields.io/badge/Sustentabilidade-2E8B57?style=for-the-badge&logo=leaf&logoColor=white)
 
 ![Consumo de Água](https://img.shields.io/badge/Consumo%20de%20%C3%81gua-00BFFF?style=for-the-badge)
 
